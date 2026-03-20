@@ -2739,6 +2739,15 @@
     />
     <apn
         mcc="404"
+        mnc="78"
+        carrier="Vi India"
+        apn="www"
+        protocol="IPV4V6"
+        roaming_protocol="IPV4V6"
+        type="default,mms,ia,supl,ims,hipri,fota,cbs,xcap"
+    />
+    <apn
+        mcc="404"
         mnc="79"
         carrier="BSNL NET"
         apn="bsnlnet"
